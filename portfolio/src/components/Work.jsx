@@ -12,7 +12,7 @@ const data = [
   {
     year: 2018,
     title:
-      "Robert Wood Johnson University Hospital Lead Security Officer (Shift Supervisor)",
+      "Robert Wood Johnson University Hospital | Shift Supervisor (Lead Security Officer)",
     duration: "4 Years",
     details:
       "As the Lead Security Officer at a Level One Trauma Center, I was the primary liaison for the senior leadership team, addressing supply shortages, resolving internal conflicts, and facilitating information exchange. I efficiently managed the daily operations and scheduling for 60 officers while conducting investigations and submitting comprehensive reports concerning hospital activities and security team matters. I collaborated with the local police department on significant incidents that were crucial in crisis management. As a certified Handle with Care instructor, I taught de-escalation techniques, significantly reducing workplace violence incidents. My proactive approach led to successful interventions involving patients armed with firearms.",
