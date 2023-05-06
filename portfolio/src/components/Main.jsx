@@ -34,21 +34,30 @@ const Main = () => {
             />
           </h2>
           <div className="flex justify-between pt-6 max-w-[200px] w-full">
-            <FaInstagram
-              className="cursor-pointer"
-              size={30}
-              to="https://www.instagram.com/jorgelb/"
-            />
-            <FaLinkedin
-              className="cursor-pointer"
-              size={30}
-              to="https://www.linkedin.com/in/jorge-basilio-180484198/"
-            />
-            <FaGithub
-              className="cursor-pointer"
-              size={30}
-              to="https://github.com/Jbasilio55"
-            />
+            <a href="https://www.instagram.com/jorgelb/" target="_blank">
+              <FaInstagram
+                className="cursor-pointer"
+                size={30}
+                to="https://www.instagram.com/jorgelb/"
+              />
+            </a>
+            <a
+              href="https://www.linkedin.com/in/jorge-basilio-180484198/"
+              target="_blank"
+            >
+              <FaLinkedin
+                className="cursor-pointer"
+                size={30}
+                to="https://www.linkedin.com/in/jorge-basilio-180484198/"
+              />
+            </a>
+            <a href="https://github.com/Jbasilio55" target="_blank">
+              <FaGithub
+                className="cursor-pointer"
+                size={30}
+                to="https://github.com/Jbasilio55"
+              />
+            </a>
           </div>
         </div>
       </div>
