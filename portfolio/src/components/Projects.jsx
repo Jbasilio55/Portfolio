@@ -1,6 +1,7 @@
 import React from "react";
 import ProjectItem from "./ProjectItem";
 import project1 from "../img/project1.png";
+import project2 from "../img/project2.png";
 
 const Projects = () => {
   return (
@@ -17,7 +18,16 @@ const Projects = () => {
         solutions that make a tangible impact.
       </p>
       <div div className="grid sm:grid-cols-2 gap-12">
-        <ProjectItem img={project1} title="CoffeStand" />
+        <ProjectItem
+          img={project2}
+          title="Movie-Nugget"
+          description="React, Java (Spring boot)"
+        />
+        <ProjectItem
+          img={project1}
+          title="CoffeStand"
+          description="JavaScript, HTML and CSS"
+        />
       </div>
     </div>
   );

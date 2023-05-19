@@ -7,7 +7,7 @@ import {
 } from "react-icons/ai";
 import { BsPerson } from "react-icons/bs";
 import { GrProjects } from "react-icons/gr";
-import resume from "../assets/resume.pdf";
+import resume from "../assets/Resume2.pdf";
 
 const Sidenav = () => {
   const [nav, setNav] = useState(false);
