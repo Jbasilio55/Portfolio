@@ -9,7 +9,7 @@ const Projects = () => {
       <h1 className="text-4xl font-bold text-center text-[#001b5e]">
         Projects
       </h1>
-      <p className="text-center py-8">
+      <p className="text-center py-8 text-lg">
         Dive into my extensive portfolio of coding projects, which demonstrates
         my proficiency in a wide range of programming languages and technologies
         and highlights my dedication to creativity, innovation, and
@@ -22,11 +22,13 @@ const Projects = () => {
           img={project2}
           title="Movie-Nugget"
           description="React, Java (Spring boot)"
+          destination="https://movie-nugget.netlify.app/"
         />
         <ProjectItem
           img={project1}
           title="CoffeStand"
           description="JavaScript, HTML and CSS"
+          destination="https://coffee-stand.netlify.app/"
         />
       </div>
     </div>
