@@ -22,13 +22,15 @@ const Projects = () => {
           img={project2}
           title="Movie-Nugget"
           description="React, Java (Spring boot)"
-          destination="https://movie-nugget.netlify.app/"
+          website="https://movie-nugget.netlify.app/"
+          sourceCode="https://github.com/Jbasilio55/MoviesApp"
         />
         <ProjectItem
           img={project1}
           title="CoffeeStand"
           description="JavaScript, HTML and CSS"
-          destination="https://coffee-stand.netlify.app/"
+          website="https://coffee-stand.netlify.app/"
+          sourceCode="https://github.com/Jbasilio55/CoffeeStand"
         />
       </div>
     </div>
