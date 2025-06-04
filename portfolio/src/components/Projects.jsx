@@ -1,7 +1,7 @@
 import React from "react";
 import ProjectItem from "./ProjectItem";
 import project1 from "../img/project1.png";
-import project2 from "../img/project2.png";
+import project2 from "../img/royaltyClothing.jpg";
 
 const Projects = () => {
   return (
@@ -20,10 +20,10 @@ const Projects = () => {
       <div div className="grid sm:grid-cols-2 gap-12">
         <ProjectItem
           img={project2}
-          title="Movie-Nugget"
-          description="React, Java (Spring boot)"
-          website="https://movie-nugget.netlify.app/"
-          sourceCode="https://github.com/Jbasilio55/MoviesApp"
+          title="Royalty Clothing"
+          description="React, firebase"
+          website="https://royaltyclothing.netlify.app/"
+          sourceCode="https://github.com/Jbasilio55/royalty_clothing"
         />
         <ProjectItem
           img={project1}
