@@ -2,7 +2,7 @@ import React from "react";
 import ProjectItem from "./ProjectItem";
 import project1 from "../img/project1.jpg";
 import project2 from "../img/royaltyClothing.jpg";
-import project3 from "../img/TypingTest.jpg";
+import project3 from "../img/typingTest.jpg";
 import project4 from "../img/passwordGen.jpg";
 import project5 from "../img/convertor.jpg";
 
