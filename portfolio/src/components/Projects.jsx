@@ -1,7 +1,10 @@
 import React from "react";
 import ProjectItem from "./ProjectItem";
-import project1 from "../img/project1.png";
+import project1 from "../img/project1.jpg";
 import project2 from "../img/royaltyClothing.jpg";
+import project3 from "../img/TypingTest.jpg";
+import project4 from "../img/passwordGen.jpg";
+import project5 from "../img/convertor.jpg";
 
 const Projects = () => {
   return (
@@ -31,6 +34,27 @@ const Projects = () => {
           description="JavaScript, HTML and CSS"
           website="https://coffee-stand.netlify.app/"
           sourceCode="https://github.com/Jbasilio55/CoffeeStand"
+        />
+        <ProjectItem
+          img={project3}
+          title="Typing Test"
+          description="JavaScript, HTML and CSS, and API"
+          website="https://typingtestwpm.netlify.app/"
+          sourceCode="https://github.com/Jbasilio55/typing_app"
+        />
+        <ProjectItem
+          img={project4}
+          title="Password Generator"
+          description="JavaScript, HTML and CSS"
+          website="https://randompwrdgenerator.netlify.app/"
+          sourceCode="https://github.com/Jbasilio55/Random_Password_Generator"
+        />
+        <ProjectItem
+          img={project5}
+          title="Unit Converter"
+          description="JavaScript, HTML and CSS, and API"
+          website="https://unitconvertorapplication.netlify.app/"
+          sourceCode="https://github.com/Jbasilio55/unit_converter"
         />
       </div>
     </div>
