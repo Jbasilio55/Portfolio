@@ -7,21 +7,19 @@ const AboutMe = () => {
         About Me
       </h1>
       <p className="text-center py-8 text-xl text-stone-500">
-        Aspiring software engineer with a strong foundation in Java, Ruby on
-        Rails, and JavaScript-based programming. My approach to problem-solving
-        is both creative and meticulous, and I thrive in team-based settings,
-        consistently offering reliability, adaptability, and an insatiable
-        curiosity to learn and innovate. My diverse background in security
-        management and law enforcement has furnished me with significant
-        leadership acumen, an exceptional eye for detail, and the capacity to
-        communicate effectively and resolve issues within high-pressure
-        contexts. I am currently on the cusp of earning a Bachelor of Science
-        degree in Computer Science and have fortified my technical arsenal
-        through attending the renowned Flatiron coding bootcamp and an intensive
-        Java Application Development course sponsored by Infosys. As I continue
-        to evolve professionally, I remain deeply committed to harnessing my
-        skills and experiences to craft impactful and high-performing software
-        solutions that meet and exceed expectations.
+        I’m a Software Engineer with a background in full-stack development, cloud-based applications, 
+        and machine learning. After earning my B.S. in Computer Science from Western Governors University 
+        and completing immersive training programs at Flatiron School and Infosys, I’ve built projects that 
+        showcase both front-end design and back-end logic—from e-commerce stores with Google Authentication to 
+        machine learning models predicting housing prices.
+        <br/>
+        Before tech, I led teams in high-pressure environments as a Lead Security Officer at a Level One Trauma Center. 
+        That experience sharpened my communication, problem-solving, and leadership skills—traits I now bring to 
+        collaborative engineering teams.
+        <br/>
+        I’m passionate about building clean, user-focused solutions and continuously learning new technologies. 
+        I’m currently looking for opportunities where I can contribute to real-world software development 
+        and grow under strong technical mentorship.
       </p>
     </div>
   );
