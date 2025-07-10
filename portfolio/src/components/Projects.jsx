@@ -8,11 +8,11 @@ import project5 from "../img/converter.jpg";
 
 const Projects = () => {
   return (
-    <div id="projects" className="max-w-[1040px] m-auto md:pl-20 p-4 py-16">
+    <div id="projects" className="m-auto md:pl-20 p-4 py-16">
       <h1 className="text-4xl font-bold text-center text-[#001b5e]">
         Projects
       </h1>
-      <p className="text-center py-8 text-lg text-stone-500">
+      <p className="max-w-[1040px] text-center py-8 text-lg text-stone-500">
         Dive into my extensive portfolio of coding projects, which demonstrates
         my proficiency in a wide range of programming languages and technologies
         and highlights my dedication to creativity, innovation, and
