@@ -23,7 +23,7 @@ const AboutMe = () => {
         to deepen my ability to create innovative, data-driven solutions.
         <br/>
         <br/>
-        I’m seeking opportunities to contribute to real-world software development while learning from strong technical mentorship.
+        I’m seeking opportunities to contribute to real-world software development while learning from strong technical mentors.
       </p>
     </div>
   );
