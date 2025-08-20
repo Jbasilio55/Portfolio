@@ -7,7 +7,7 @@ const data = [
     title: "InfoSys - Apprenticeship (Java – Remote)",
     duration: "3 Months",
     details:
-      "8 Week-intensive coding course and apprenticeship that provides students with a solid understanding of computer fundamentals and hands-on programming experience. Our curriculum covers Frontend and Backend technologies, including HTML, CSS, JavaScript, React, Angular, Java, Spring Boot, MySQL, and MongoDB, ensuring a well-rounded skillset for aspiring developers.",
+      "Completed an intensive 8-week coding bootcamp focused on building a strong foundation in computer science and full-stack development. The program combined theory with hands-on experience, covering both frontend and backend technologies, including HTML, CSS, JavaScript, React, Angular, Java, Spring Boot, MySQL, and MongoDB. Upon completion, I was hired by Infosys as a Java Application Developer (Apprentice), where I collaborated with mentors on real-world coding projects to further develop my skills in software development and team-based engineering.",
   },
   {
     year: 2018,
