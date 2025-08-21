@@ -5,7 +5,7 @@ const data = [
   {
     year: 2022,
     title: "InfoSys - Apprenticeship (Java – Remote)",
-    duration: "3 Months",
+    duration: "4 Months",
     details:
       "Completed an intensive 8-week coding bootcamp focused on building a strong foundation in computer science and full-stack development. The program combined theory with hands-on experience, covering both frontend and backend technologies, including HTML, CSS, JavaScript, React, Angular, Java, Spring Boot, MySQL, and MongoDB. Upon completion, I was hired by Infosys as a Java Application Developer (Apprentice), where I collaborated with mentors on real-world coding projects to further develop my skills in software development and team-based engineering.",
   },
